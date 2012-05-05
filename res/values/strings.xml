@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Wallpaper!</string>
+    <string name="app_name">AOKPCB Wallpapers</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+
+</resources>
