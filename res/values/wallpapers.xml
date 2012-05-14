@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>bluewall_aokpnitroz</item>
         <item>jaithemes_setyourunicornfree</item>
         <item>jaithemes_unicorn_sky_black</item>
         <item>jaithemes_unicorn_sky</item>
