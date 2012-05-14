@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>pcb_wallpaper_01_scar45</item>
-        <item>pcb_wallpaper_02_scar45</item>
-        <item>pcb_wallpaper_03_scar45</item>
-        <item>pcb_wallpaper_04_scar45</item>
-        <item>pcb_wallpaper_05_scar45</item>
-        <item>pcb_wallpaper_06_scar45</item>
-        <item>pcb_wallpaper_07_scar45</item>
-        <item>pcb_wallpaper_08_scar45</item>
-        <item>pcb_wallpaper_09_scar45</item>
-        <item>pcb_wallpaper_10_scar45</item>
-        <item>pcb_wallpaper_11_scar45</item>
-        <item>pcb_wallpaper_12_scar45</item>
-        <item>pcb_wallpaper_13_scar45</item>
-		<item>pcb_wallpaper_14_scar45</item>
-		<item>pcb_wallpaper_15_scar45</item>
-		<item>pcb_wallpaper_16_scar45</item>
+        <item>jaithemes_setyourunicornfree</item>
+        <item>jaithemes_unicorn_sky_black</item>
+        <item>jaithemes_unicorn_sky</item>
+        <item>jaithemes_village_gradient</item>
+        <item>jaithemes_village</item>
+        <item>samsungclay01</item>
+        <item>samsungclay02</item>
+        <item>samsungclay03</item>
+        <item>samsungclay_kangbama</item>
     </string-array>
 </resources>
