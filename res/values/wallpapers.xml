@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>thaplash_logo_head_office</item>
+        <item>thaplash_logo_head_office2</item>
         <item>blueWall_pure_black_and_white</item>
 	<item>bluewall_white_unicorn_and_blue</item>
 	<item>bluewall_white_unicorn_and_green</item>
