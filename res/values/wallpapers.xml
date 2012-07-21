@@ -3,7 +3,8 @@
     <string-array name="wallpapers" translatable="false">
         <item>thaplash_logo_head_office</item>
         <item>thaplash_logo_head_office2</item>
-        <item>blueWall_pure_black_and_white</item>
+	<item>kwes1020_aokpwp1</item>
+	<item>kwes1020_aokpwp2</item>
 	<item>bluewall_white_unicorn_and_blue</item>
 	<item>bluewall_white_unicorn_and_green</item>
 	<item>bluewall_white_unicorn_and_orange</item>
@@ -12,7 +13,6 @@
 	<item>jaithemes_rusty_unicorn2</item>
 	<item>jaithemes_rusty_unicorn3</item>
         <item>jaithemes_setyourunicornfree</item>
-        <item>jaithemes_unicorn_sky_black</item>
         <item>jaithemes_unicorn_sky</item>
         <item>jaithemes_village_gradient</item>
         <item>jaithemes_village</item>
@@ -25,7 +25,5 @@
 	<item>mobile_sensei_x6</item>
         <item>samsungclay01</item>
         <item>samsungclay02</item>
-        <item>samsungclay03</item>
-        <item>samsungclay_kangbama</item>
     </string-array>
 </resources>
