@@ -11,4 +11,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files) $(call all-renderscript-files-u
 LOCAL_PACKAGE_NAME := SwagPapers
 LOCAL_CERTIFICATE := shared
 
+LOCAL_PRIVATE_PLATFORM_APIS := true
+
 include $(BUILD_PACKAGE)
